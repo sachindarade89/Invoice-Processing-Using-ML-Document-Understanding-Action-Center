@@ -1,0 +1,46 @@
+{
+  "DefaultProjectDescription": "Blank Process",
+  "DefaultProjectName": "Invoice Processing-DU_ActionCenter",
+  "Dependencies": {
+    "UiPath.DocumentUnderstanding.ML.Activities": "[1.9.1]",
+    "UiPath.Excel.Activities": "[2.9.5]",
+    "UiPath.IntelligentOCR.Activities": "[4.13.1]",
+    "UiPath.OmniPage.Activities": "[1.7.1]",
+    "UiPath.System.Activities": "[20.10.3]",
+    "UiPath.UIAutomation.Activities": "[20.10.8]"
+  },
+  "Description": "Blank Process",
+  "DisplayPriority": 0,
+  "ExceptionHandlerWorkflow": null,
+  "IconUri": "CustomProcessVBIcon",
+  "IsBlank": false,
+  "Label": "Process",
+  "MainFile": "Main.xaml",
+  "EntryPoints": [
+    {
+      "FilePath": "Main.xaml",
+      "UniqueId": "f2ce8e37-fcf9-4fa0-ae9d-cc6971c4da31",
+      "Input": [],
+      "Output": []
+    }
+  ],
+  "EntitiesStores": [],
+  "Name": "Invoice.Processing-DU_ActionCenter",
+  "NewTemplateTitle": null,
+  "PrivateFiles": [],
+  "OutputType": 0,
+  "ProjectProfile": 0,
+  "ExpressionLanguage": 0,
+  "TargetFramework": 0,
+  "SupportsPersistence": true,
+  "ModernBehavior": false,
+  "RequiresUserInteraction": true,
+  "ReadyForPiP": false,
+  "StartsInPiP": false,
+  "IsPausable": true,
+  "IsAttended": false,
+  "IsLocalized": false,
+  "PackageIconUrl": null,
+  "AutoDispose": false,
+  "FileInfoCollection": []
+}
